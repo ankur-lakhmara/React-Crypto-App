@@ -15,4 +15,4 @@ now you have to write `npm install` and now you have to give `npm start`
 now in your browser type `http://localhost:3000/` and app will run :)
 
 ## check my live app here
-<a href="https://crypto-react-app0.netlify.app/">Click here</a>
+<a href="https://elastic-visvesvaraya-6b2efe.netlify.app/">Click here</a>
